@@ -96,4 +96,4 @@ square beside the product name.
 
 # **How to Run**
 - Run $ py server.py
-- Open http://127.0.0.1:5000
+- Open http://127.0.0.1:5000 in your browser or the link appeared in the terminal
